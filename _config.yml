@@ -1,1 +1,4 @@
 
+title: Soutient Vision Media
+theme: minima # Applique le thème par défaut
+permalink: /:categories/:title/
